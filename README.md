@@ -30,6 +30,7 @@ Create a .env file with the vars
 
 To run the server just type in the terminal
 
+    npm i
     npm start
 
 ## Test
