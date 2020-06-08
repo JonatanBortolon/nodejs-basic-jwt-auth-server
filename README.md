@@ -1,6 +1,6 @@
 # Basic JWT Auth Server‏
 
-Basic template of a JWT auth server writen in Nodejs
+Basic template of a JWT auth server written in Nodejs
 
 ## Technologies
 
